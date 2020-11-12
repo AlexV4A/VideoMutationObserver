@@ -12,7 +12,7 @@ export default class App extends Lightning.Component  {
               // page
           },
           Player: {
-              type: Player
+              type: Player 
           }
       }
   }
